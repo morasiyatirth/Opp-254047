@@ -1,6 +1,6 @@
 # Library Management System (C++)
 **Submitted to:** Prof. Mayank Pathak
-Dept - BTECH(CSE), JG University
+**Dept** - BTECH(CSE), JG University
 
 # 1. Introduction
 This is a console-based application developed in C++ to manage library records efficiently. It allows users to add new books to a digital database and view the existing collection.
