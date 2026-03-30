@@ -1,5 +1,5 @@
 # Library Management System (C++)
-**Submitted to:** Prof. Mayank Pathak
+**Submitted to:** Prof. Mayank Pathak,
 **Dept** - BTECH(CSE), JG University
 
 # 1. Introduction
